@@ -138,7 +138,7 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * Whether the xmlPattern node selection interface is configured in
  */
-#if 0
+#if 1
 #define LIBXML_PATTERN_ENABLED
 #endif
 
@@ -183,7 +183,7 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * Whether the DTD validation support is configured in
  */
-#if 0
+#if 1
 #define LIBXML_VALID_ENABLED
 #endif
 
@@ -210,7 +210,7 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * Whether the Canonicalization support is configured in
  */
-#if 0
+#if 1
 #define LIBXML_C14N_ENABLED
 #endif
 
@@ -318,7 +318,7 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * Whether the Unicode related interfaces are compiled in
  */
-#if 0
+#if 1
 #define LIBXML_UNICODE_ENABLED
 #endif
 
@@ -327,7 +327,7 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * Whether the regular expressions interfaces are compiled in
  */
-#if 0
+#if 1
 #define LIBXML_REGEXP_ENABLED
 #endif
 
@@ -354,7 +354,7 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * Whether the Schemas validation interfaces are compiled in
  */
-#if 0
+#if 1
 #define LIBXML_SCHEMAS_ENABLED
 #endif
 
